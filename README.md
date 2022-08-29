@@ -186,6 +186,8 @@ Offset Family
   - METRO
   
 ### 2. NeRF model
+- [Human NeRF](https://github.com/jintaiWang/NeRF-About-Human-Pose-Reconstruction-and-Rendering)
+
 ### 3. relighting
 
 # <div id="E"> Open-source Toolbox <div>
