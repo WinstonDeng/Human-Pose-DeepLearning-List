@@ -1,6 +1,6 @@
 # Human-Pose-DeepLearning-List
 Some recent (2016-now) Human-Pose related deep learning studies. If you find any errors or problems, please feel free to comment and PR.
-Early version is shared on [[Zhihu Post]](https://zhuanlan.zhihu.com/p/345201439) and [[Mind-map]](https://note.youdao.com/ynoteshare/index.html?id=0f2ed184fb4439b36c61f91938989d8c&type=note&_time=1661513476742).
+Early version is shared on [[Zhihu]](https://zhuanlan.zhihu.com/p/345201439) and [[Mind-map]](https://note.youdao.com/ynoteshare/index.html?id=0f2ed184fb4439b36c61f91938989d8c&type=note&_time=1661513476742).
 
 # Content
 - [Human-Pose Estimation](#A)
