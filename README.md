@@ -189,6 +189,7 @@ Offset Family
 - [Human NeRF](https://github.com/jintaiWang/NeRF-About-Human-Pose-Reconstruction-and-Rendering)
 
 ### 3. relighting
+- [Human Relighting](https://github.com/QifengDai/Human-Relighting-Learning-List)
 
 # <div id="E"> Open-source Toolbox <div>
 - [MMPose](https://github.com/open-mmlab/mmpose)
